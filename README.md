@@ -1,4 +1,4 @@
-# 🚀 Suriya Prasaad S
+# Suriya Prasaad S
 
 <div align="center">
 
@@ -254,7 +254,5 @@ graph TD
 <div align="center">
 
 **⭐ Star this repository if you find it interesting!**
-
-![Visitor Count](https://profile-counter.glitch.me/SURIYAPRASAAD04/count.svg)
 
 </div>
