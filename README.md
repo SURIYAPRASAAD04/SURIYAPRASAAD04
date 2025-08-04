@@ -17,7 +17,7 @@ const suriya = {
     location: "Puducherry, India 🇮🇳",
     education: "B.Tech IT @ Sri Manakula Vinayagar Engineering College",
     cgpa: "8.86/10.0 ⭐",
-    currentRole: "Software Developer Intern @ Zoho",
+    Experienced: "Software Developer Intern @ Zoho",
     passions: ["Quantum Computing", "AI/ML", "Full Stack Development", "Problem Solving"],
     funFact: "I integrate CRMs by day and optimize quantum algorithms by night! 🌙"
 };
